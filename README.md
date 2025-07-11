@@ -11,9 +11,9 @@
 - [Используемый датасет](https://www.kaggle.com/datasets/msambare/fer2013)
 - [Модуль детекции лица](https://www.kaggle.com/datasets/gxy19980906/haarcascade-frontalface-defaultxml)
 - Обученные модели в формате ONNX:
--[efficientNet](https://drive.google.com/file/d/1c2GFy0UjyIkQpbvkjEu3ZQsTrHkHcCvQ/view?usp=sharing)
--[resNet18](https://drive.google.com/file/d/1A7_NSVuUtZTJ6gGbVY7zNp-JZjhTWoh9/view?usp=sharing)
--[yolo11n](https://drive.google.com/file/d/1_BQcdo4hRQWVVz2Y2YPhtLD2kwnugerW/view?usp=sharing)
+- [efficientnet](https://drive.google.com/file/d/1c2GFy0UjyIkQpbvkjEu3ZQsTrHkHcCvQ/view?usp=sharing)
+- [resnet18](https://drive.google.com/file/d/1A7_NSVuUtZTJ6gGbVY7zNp-JZjhTWoh9/view?usp=sharing)
+- [yolo11n](https://drive.google.com/file/d/1_BQcdo4hRQWVVz2Y2YPhtLD2kwnugerW/view?usp=sharing)
 
 Установить необходимые библиотеки:
 ```
