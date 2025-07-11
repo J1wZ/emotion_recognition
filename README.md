@@ -8,12 +8,12 @@
 -------
 
 # Необходимо скачать:
-- [Используемый датасет](https://www.kaggle.com/datasets/msambare/fer2013)
-- [Модуль детекции лица](https://www.kaggle.com/datasets/gxy19980906/haarcascade-frontalface-defaultxml)
-- Обученные модели в формате ONNX:
--- [EfficientNet](https://drive.google.com/file/d/1c2GFy0UjyIkQpbvkjEu3ZQsTrHkHcCvQ/view?usp=sharing)
--- [ResNet18](https://drive.google.com/file/d/1A7_NSVuUtZTJ6gGbVY7zNp-JZjhTWoh9/view?usp=sharing)
--- [Yolo11n](https://drive.google.com/file/d/1_BQcdo4hRQWVVz2Y2YPhtLD2kwnugerW/view?usp=sharing)
+1 [Используемый датасет](https://www.kaggle.com/datasets/msambare/fer2013)
+2 [Модуль детекции лица](https://www.kaggle.com/datasets/gxy19980906/haarcascade-frontalface-defaultxml)
+3 Обученные модели в формате ONNX:
+1 [EfficientNet](https://drive.google.com/file/d/1c2GFy0UjyIkQpbvkjEu3ZQsTrHkHcCvQ/view?usp=sharing)
+2 [ResNet18](https://drive.google.com/file/d/1A7_NSVuUtZTJ6gGbVY7zNp-JZjhTWoh9/view?usp=sharing)
+3 [Yolo11n](https://drive.google.com/file/d/1_BQcdo4hRQWVVz2Y2YPhtLD2kwnugerW/view?usp=sharing)
 
 Установить необходимые библиотеки:
 ```
