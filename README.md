@@ -11,9 +11,9 @@
 - [Используемый датасет](https://www.kaggle.com/datasets/msambare/fer2013)
 - [Модуль детекции лица](https://www.kaggle.com/datasets/gxy19980906/haarcascade-frontalface-defaultxml)
 - Обученные модели в формате ONNX:
-- [efficientnet](https://drive.google.com/file/d/1c2GFy0UjyIkQpbvkjEu3ZQsTrHkHcCvQ/view?usp=sharing)
-- [resnet18](https://drive.google.com/file/d/1A7_NSVuUtZTJ6gGbVY7zNp-JZjhTWoh9/view?usp=sharing)
-- [yolo11n](https://drive.google.com/file/d/1_BQcdo4hRQWVVz2Y2YPhtLD2kwnugerW/view?usp=sharing)
+  - [EfficientNet](https://drive.google.com/file/d/1c2GFy0UjyIkQpbvkjEu3ZQsTrHkHcCvQ/view?usp=sharing)
+  - [ResNet18](https://drive.google.com/file/d/1A7_NSVuUtZTJ6gGbVY7zNp-JZjhTWoh9/view?usp=sharing)
+  - [Yolo11n](https://drive.google.com/file/d/1_BQcdo4hRQWVVz2Y2YPhtLD2kwnugerW/view?usp=sharing)
 
 Установить необходимые библиотеки:
 ```
@@ -27,16 +27,20 @@ pip install -r requirements.txt
 -------
 # Пример работы моделей
 
-Данной видео:
+Данное видео:
+
 ![man_worried.gif](https://github.com/J1wZ/emotion_recognition/blob/main/gifs/man_worried.gif)
 
 Вывод EfficientNet:
+
 ![output_EfficientNet_gradio.gif](https://github.com/J1wZ/emotion_recognition/blob/main/gifs/output_EfficientNet_gradio.gif)
 
 Вывод ResNet18:
+
 ![output_ResNet18_gradio.gif](https://github.com/J1wZ/emotion_recognition/blob/main/gifs/output_ResNet18_gradio.gif)
 
 Вывод Yolo11n:
+
 ![output_Yolo11n_gradio.gif](https://github.com/J1wZ/emotion_recognition/blob/main/gifs/output_Yolo11n_gradio.gif)
 
 -----
