@@ -45,6 +45,6 @@ pip install -r requirements.txt
 
 -----
 # Ссылки:
-- Презентация
-- Отчет
+- [Презентация](https://github.com/J1wZ/emotion_recognition/blob/main/report%20and%20presentation/ПирожковаАД_Итоговое_задание.pptx)
+- [Отчет](https://github.com/J1wZ/emotion_recognition/blob/main/report%20and%20presentation/ПирожковаАД_Отчет_итоговая_работа.docx)
 - [Деплой веб-интерфейса на Hugging Face](https://huggingface.co/spaces/J1wZ/emotion_recognition)
